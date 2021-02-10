@@ -10,13 +10,9 @@ Navigate to project root folder, in your terminal type in `npm install` to insta
 
 ## Usage
 
-To display the client details script, type the following into the terminal:
+Use the flag --clientEmail= in the terminal
 
-`node app.js --email=`  (include the appropriate email address)
-
-To display the client invoice summary, type the following:
-
-`node app.js --id=`  (include the appropriate client id)
+`node app.js --clientEmail=` (include the email address)
 
 ## Credits
 Created by [@MelissaAppolis](https://github.com/MelissaAppolis)
